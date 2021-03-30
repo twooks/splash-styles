@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+
+
+
+}
+    
+
+
+
+
+
+
+
+
+
+.nav-wrapper {
+display: flex;
+justify-content: space-between;
+padding: 54px;
+}
+
+
+
+}
+.nav-link-wrapper {
+height: 22px;
+border-bottom: 1px solid transparent;
+transition: border-bottom 0.5s;
+
+}
+.nav-link-wrapper a {
+    color: greenyellow;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+
+}
+.nav-link-wrapper a:hover {
+    color: red;
+}
+nav{
+    background-color: honeydew;
+}
+body{
+    color: navy;
+
+}
+h1{
+    background-color: maroon;
+    color: orchid;
+}
+h2{
+    background-color: cornflowerblue;
+}
+button{
+    border-color: red;
+    color: goldenrod;
+}
+h3{
+    
+    color: red;
+}
+    
+
+
